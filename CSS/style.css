@@ -424,6 +424,11 @@ nav .menu ul li:last-child a{
     outline: 0;
     border: 0;
     margin: 25px  auto;
+    transition: 0.3s;
+}
+
+#contact form button:hover{
+    background-color: #ee2e24;
 }
 
 /* contact ends here */
